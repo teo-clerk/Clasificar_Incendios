@@ -1,0 +1,1 @@
+A program in which you enter dates in a file with the first line with the text: "ACQ_DATE" and in the following lines you put dates in d/m/y format (for example: 02/05/2007) and it sorts them according to month and year.
